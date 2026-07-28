@@ -33,7 +33,7 @@
 ### Programming Languages
 
 <p>
-  https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql
+  python,java,cpp,js,html,css,sql
 </p>
 
 ### AI & Data
@@ -51,7 +51,7 @@
 ### Tools & Platforms
 
 <p>
-  https://skillicons.dev/icons?i=git,github,docker,linux,vscode,mysql
+  git,github,docker,linux,vscode,mysql
 </p>
 
 ---
@@ -69,23 +69,6 @@ Data processing, visualization, and insights extraction using Python.
 
 ### 💻 Software Development Projects
 Academic and personal projects showcasing problem-solving and development skills.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-  -langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  ://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
@@ -113,9 +96,8 @@ Academic and personal projects showcasing problem-solving and development skills
 ## 🌍 Connect With Me
 
 <p align="left">
-https://linkedin.com/in/YOUR_LINKEDIN
 
-YOUR_EMAIL
+doanasrallah@gmail.com
 </p>
 
 ---
