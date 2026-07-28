@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doa Nasrallah</h1>
 <h3 align="center">Computer Science Student | AI Enthusiast | Future AI Engineer</h3>
 
-<p align="center">
-  https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=800&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;RAG+and+Chatbot+Developer;Always+Learning+New+Technologies
-</p>
 
 ---
 
